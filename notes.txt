@@ -1,2 +1,2 @@
-Day 1: I'm learning Git today!
+Day 1: learning Git today!important
 Day 2: Today I learned about staging and committing!I want to add something to make changes which can be seen in github -
